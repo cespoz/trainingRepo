@@ -1,0 +1,3 @@
+[submodule "training2"]
+	path = training2
+	url = https://github.com/cespoz/training2.git
